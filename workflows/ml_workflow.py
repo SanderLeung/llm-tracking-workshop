@@ -24,6 +24,7 @@ image = ImageSpec(
         "pandas==2.2.1",
         "matplotlib==3.8.3",
         "unionai==0.1.14",
+        "flyteidl==1.11.1b0",
     ],
 )
 
